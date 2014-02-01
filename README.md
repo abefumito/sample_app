@@ -5,6 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
+# Ruby on Rails チュートリアル：サンプルアプリケーション
+
+これは、以下のためのサンプルアプリケーションです。
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+by [Michael Hartl](http://michaelhartl.com/).
+
+
 * Ruby version
 
 * System dependencies
